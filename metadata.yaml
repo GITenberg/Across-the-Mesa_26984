@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '32408'
     url: http://www.gutenberg.org/2009/agents/32408
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26984#Across-the-Mesa
 gutenberg_issued: '2008-10-21'
 gutenberg_type: Text
 identifiers:
